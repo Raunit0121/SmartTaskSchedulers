@@ -110,3 +110,7 @@ Make sure Java 17 and Maven are installed.
 
 Raunit Goyal 
 GitHub @Raunit0121
+## About Me
+
+Check out my [GitHub Profile](https://github.com/Raunit0121) for more projects and contributions.
+
