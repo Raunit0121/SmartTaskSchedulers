@@ -101,16 +101,22 @@ Make sure Java 17 and Maven are installed.
 ### 📦 Future Improvements
 
  Edit and delete task functionality
+ 
  Filters (by today, by priority)
+ 
  Tray icon reminders
+ 
  Notifications with sound
 
 
 ### 🧑‍💻 Author
 
 Raunit Goyal 
+
 GitHub @Raunit0121
+
 ## About Me
 
 Check out my [GitHub Profile](https://github.com/Raunit0121) for more projects and contributions.
+Check out my Linkdin [Linkdin Profile]([https://github.com/Raunit0121](https://www.linkedin.com/in/raunit-kumar-92799926a))
 
