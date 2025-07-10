@@ -17,24 +17,24 @@ A simple yet powerful desktop-based task manager built in Java using Swing, Prio
 
 ## 📁 Project Structure
 
- SmartTaskScheduler/
-└── src/
-    └── main/
-        ├── java/
-        │   └── org/example/
-        │       ├── Main.java
-        │       ├── model/
-        │       │   └── Task.java
-        │       ├── storage/
-        │       │   └── TaskStorage.java
-        │       ├── ui/
-        │       │   ├── MainFrame.java
-        │       │   └── TaskPanel.java
-        │       └── utils/
-        │           ├── ReminderService.java
-        │           └── TaskManager.java
-        └── resources/
-            └── tasks.json
+     SmartTaskScheduler/
+    └── src/
+        └── main/
+            ├── java/
+            │   └── org/example/
+            │       ├── Main.java
+            │       ├── model/
+            │       │   └── Task.java
+            │       ├── storage/
+            │       │   └── TaskStorage.java
+            │       ├── ui/
+            │       │   ├── MainFrame.java
+            │       │   └── TaskPanel.java
+            │       └── utils/
+            │           ├── ReminderService.java
+            │           └── TaskManager.java
+            └── resources/
+                └── tasks.json
 
 ---
 
@@ -61,7 +61,7 @@ A simple yet powerful desktop-based task manager built in Java using Swing, Prio
 
 3. Run the Main.java class from org.example.
 
-## 💻 From Command Line:
+### 💻 From Command Line:
 
 Make sure Java 17 and Maven are installed.
 
@@ -71,7 +71,11 @@ Make sure Java 17 and Maven are installed.
     # Run the application
     mvn exec:java -Dexec.mainClass="org.example.Main"
 
+    
+
 ## 🔧 Optional: Add exec-maven-plugin to your pom.xml for CLI support.
+
+---
 
 ### 📝 JSON File Format (tasks.json)
   
@@ -83,20 +87,22 @@ Make sure Java 17 and Maven are installed.
       }
     ]
 
+
+---
+
+
 ## 🎨 Screenshots
 
 ![Screenshot 2025-07-10 151751](https://github.com/user-attachments/assets/32163daa-9287-477a-8cfe-cd6da77a27c2)
 
 
+---
 
 ### 📦 Future Improvements
 
  Edit and delete task functionality
-
  Filters (by today, by priority)
-
  Tray icon reminders
-
  Notifications with sound
 
 
